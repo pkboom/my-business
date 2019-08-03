@@ -1,0 +1,22 @@
+{
+    "name": "pkboom/my-business",
+    "description": "",
+    "keywords": [
+        "my-business"
+    ],
+    "homepage": "https://github.com/pkboom/my-business",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "google"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    },
+    "autoload": {
+        "files": [
+            "MyBusiness.php"
+        ]
+    }
+}
